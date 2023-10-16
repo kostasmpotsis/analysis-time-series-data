@@ -1,4 +1,4 @@
-# data-science
+# time series data 
  fuel analysis with macroeconomic variables using python  
 there you will see how i scrape data using python
 analysis of macreconomik data,visulazation,
